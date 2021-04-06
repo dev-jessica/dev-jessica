@@ -1,6 +1,6 @@
 ## 💜 Olá, meu nome é <strong>Jéssica!</strong>
 
-> Sou formada em Sistemas de informação, trabalho no banco itau como desenvolvedora Front-end
+> Sou formada em Sistemas de informação, trabalho no Banco Itaú sou Engenheira de Software ;)
 
 🔭 Estudando Angular e Redux
 
